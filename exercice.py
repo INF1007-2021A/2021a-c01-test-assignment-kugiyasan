@@ -8,3 +8,5 @@ if __name__ == "__main__":
         print(i)
 
     print("BONNE ANNÉE!!!")
+
+    print("un autre commit pour la chance!")
